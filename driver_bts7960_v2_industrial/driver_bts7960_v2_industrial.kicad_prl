@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 5,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -60,7 +60,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "driver_bts7960_v1.kicad_prl",
+    "filename": "driver_bts7960_v2_industrial.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
